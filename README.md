@@ -107,7 +107,8 @@ a los negocios de la comunidad.
 
 ## 9. Contacto
 
-hola@colombia-dev.org
+- hola@colombia-dev.org
+- [@colombia_dev](https://twitter.com/colombia_dev)
 
 ## 10. Licencia y atribución
 
