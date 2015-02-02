@@ -2,7 +2,7 @@
 
 ## 1. Propósito
 
-Un objetivo principal de COMMUNITY_NAME es ser inclusiva para el mayor número
+Un objetivo principal de `colombia.dev` es ser inclusiva para el mayor número
 de contribuyentes, con la mayor diversidad de orígenes posibles.
 Como tal, estamos comprometidos a proporcionar un ambiente agradable, seguro y
 acogedor para todos, independientemente de su sexo, orientación sexual, capacidad,
@@ -12,7 +12,7 @@ Este código de conducta resume nuestras expectativas para todos
 los que participan en nuestra comunidad, así como las
 consecuencias para el comportamiento inaceptable.
 
-Invitamos a todos los que participan en COMMUNITY_NAME a que
+Invitamos a todos los que participan en `colombia.dev` a que
 nos ayuden a crear experiencias seguras y positivas para todos.
 
 ## 2. Ciudadania de [Software / Cultura / Tecnología] Libre
@@ -75,7 +75,7 @@ sin derecho a reembolso en el caso de un evento de pago).
 
 Si usted es víctima o testigo de una conducta inaceptable, o tiene
 cualquier inquietud, por favor comuníquese con un organizador de la comunidad
-lo antes posible. [CONTACT_INFO_HERE]
+lo antes posible. [hola@colombia-dev.org]
 
 Adicionalmente, los organizadores comunitarios están disponibles para ayudar
 a miembros de la comunidad a contactar a la policía local o interceder para que
@@ -107,12 +107,8 @@ a los negocios de la comunidad.
 
 ## 9. Contacto
 
-[SU INFO DE CONTACTO AQUÍ - esto debe ser una sola
-persona o un pequeño equipo que puede responder a temas
-directamente]
+hola@colombia-dev.org
 
 ## 10. Licencia y atribución
 
 Este Código de Conducta se distribuye bajo una [Creative Commons Reconocimiento – CompartirIgual (by-sa)](http://creativecommons.org/licenses/by-sa/3.0/)
-
-_Revision 2.0, aprobada por la [Stumptown Syndicate](http://stumptownsyndicate.org) a bordo el 10 de enero de 2013. Publicado 17 de marzo 2013._
