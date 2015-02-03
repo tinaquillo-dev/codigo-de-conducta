@@ -120,3 +120,5 @@ a los negocios de la comunidad.
 ## 10. Licencia y atribución
 
 Este Código de Conducta se distribuye bajo una [Creative Commons Reconocimiento – CompartirIgual (by-sa)](http://creativecommons.org/licenses/by-sa/3.0/)
+
+[Adaptado del Código de Conducta de Stumptown Syndicate](https://github.com/stumpsyn/policies/blob/master/citizen_code_of_conduct.md)
