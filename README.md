@@ -35,13 +35,13 @@ todos los participantes a que contribuyan en la mayor medida, nos gustaría sabe
 * Participe de manera auténtica y activa. Al hacerlo, usted contribuye a la salud y la longevidad de esta comunidad.
 * Ejercite la consideración y el respeto en sus comunicaciones y acciones.
 * Intente colaborar en lugar de generar conflicto.
-* Absténgase de conducta y lenguaje degradante, discriminatorio, abusivo o acosante.
-* Sea consciente de su entorno y de sus compañeros participantes. Alerte a líderes comunitarios si usted nota una situación peligrosa, alguien en apuros, o violaciónes de este Código de Conducta, incluso si parecen intrascendentes.
+* Absténgase de conducta y lenguaje degradante, discriminatorio, abusivo o acosadora.
+* Sea consciente de su entorno y de sus compañeros participantes. Alerte a líderes comunitarios si usted nota una situación peligrosa, alguien en apuros, o violaciones de este Código de Conducta, incluso si parecen intrascendentes.
 
 ## 4. Comportamiento inaceptable
 
 Comportamientos inaceptables incluyen: intimidación, acoso, abuso,
-discriminación, comunicacion despectiva o degradante o acciones por
+discriminación, comunicación despectiva o degradante o acciones por
 cualquier participante en nuestra comunidad ya sea en internet, en todos los
 eventos relacionados y en las comunicaciones uno-a-uno que se realizan en el
 contexto de los negocios de la comunidad. Es posible que los lugares para eventos
@@ -53,7 +53,7 @@ relacionados con el género, la orientación sexual, raza,
 religión, discapacidad; uso inadecuado de desnudos y / o
 imágenes sexuales en espacios públicos (incluyendo la presentación
 diapositivas); intimidación deliberada, acecho o seguimiento;
-fotografías o grabaciónes acosantes; interrupción sostenida de
+fotografías o grabaciones acosadoras; interrupción sostenida de
 charlas y otros eventos; contacto físico inapropiado, y
 atención sexual no deseada.
 
@@ -79,28 +79,28 @@ lo antes posible. [hola@colombia-dev.org]
 
 Adicionalmente, los organizadores comunitarios están disponibles para ayudar
 a miembros de la comunidad a contactar a la policía local o interceder para que
-victimas de comportamiento inaceptable se sientan seguros,
+víctimas de comportamiento inaceptable se sientan seguros,
 En el contexto de los eventos en persona, los organizadores
 también pueden proporcionar escoltas si un miembro de la comunidad lo siente necesario.
 
-## 7. Politicas de Moderación
+## 7. Políticas de Moderación
 
 Estas son las políticas para mantener los estándares de conducta en nuestra comunidad en los canales de Slack, meetups asociados, conferencias, grupos de estudio, y eventos virtuales.
 
-- Palabras que violen las normas de Codigo de Conducta, incluyendo comentarios odiosos, hirientes, opresivos, o excluyentes, no están permitidos. (Se permite las "malas palabras", pero nunca enfocadas hacia otro usuario/asistente, y nunca de una manera odiosa.)
+- Palabras que violen las normas de Código de Conducta, incluyendo comentarios odiosos, hirientes, opresivos, o excluyentes, no están permitidos. (Se permite las "malas palabras", pero nunca enfocadas hacia otro usuario/asistente, y nunca de una manera odiosa.)
 - Comentarios que los organizadores encuentran inapropiados tampoco están permitidos, así aparezcan en el código de conducta o no.
 - Los organizadores primero deberán responder a dichos comentarios con una advertencia.
-- Si la advertencia es ignorada, el usuario/asistente será expulsado expulsado del canal para que evalue su comportamiento, o debera retirarse del lugar por 30 minutos en caso de eventos presenciales.
+- Si la advertencia es ignorada, el usuario/asistente será expulsado expulsado del canal para que evalúe su comportamiento, o deberá retirarse del lugar por 30 minutos en caso de eventos presenciales.
 - Si el usuario/asistente regresa y continúa causando problemas, será expulsado del grupo/evento/lugar/Slack de forma indefinida.
 - Los organizadores pueden retractar la expulsión a su discreción si esta se trata de una primera infracción y se ha ofrecido una disculpa sincera a quien ofendieron.
-- Si un organizador expulsa a alguien y usted cree que fue una expulsión sin causa, contacte a ese organizador, o a un organizador diferente **en privado**. Quejas sobre expulsiones en medios abiertos, sociales, u otros canales no son permitidasy conllevaran a más expulsiónes.
-- Los organizadores se rigen por un nivel más alto que otros miembros de la comunidad. Si un organizador crea una situación inadecuada, este será juzgado con un estandar más alto.
+- Si un organizador expulsa a alguien y usted cree que fue una expulsión sin causa, contacte a ese organizador, o a un organizador diferente **en privado**. Quejas sobre expulsiones en medios abiertos, sociales, u otros canales no son permitidas y conllevaran a más expulsiones.
+- Los organizadores se rigen por un nivel más alto que otros miembros de la comunidad. Si un organizador crea una situación inadecuada, este será juzgado con un estándar más alto.
 
 En la comunidad `colombia.dev` nos esforzamos por ir un paso más allá y cuidar el uno del otro. No se limite a tratar de mostrar su excelencia técnica, trate también de ser la mejor persona posible. En particular, evite tocar temas ofensivos o sensibles, especialmente si están fuera del tema tratado; esto muy a menudo conduce a peleas innecesarias, sentimientos heridos, y la daños en la confianza; peor, puede conducir a que personas se alejen de la comunidad en su totalidad.
 
-De la misma forma, si alguien está en desacuerdo con algo que usted dijo o hizo, resista el impulso de estar a la defensiva. Simplemente pare de hacer o decir lo que fuera que se causo la queja y pida disculpas. Hay buenas probabilidades de que usted se pudo haber comunicado mejor, incluso si usted siente que fue malinterpretado o injustamente acusado, - recuerde que es su responsabilidad hacer que sus compañeras y compañeros de `colombia.dev` estén comodos.
+De la misma forma, si alguien está en desacuerdo con algo que usted dijo o hizo, resista el impulso de estar a la defensiva. Simplemente pare de hacer o decir lo que fuera que se causo la queja y pida disculpas. Hay buenas probabilidades de que usted se pudo haber comunicado mejor, incluso si usted siente que fue malinterpretado o injustamente acusado, - recuerde que es su responsabilidad hacer que sus compañeras y compañeros de `colombia.dev` estén cómodos.
 
-Todo el mundo busca harmonía y todos estamos aquí, ante todo, porque queremos hablar de tecnologías que nos gustan. Por lo general, la gente está dispuesta a asumir buenas intenciónes y perdonar, siempre y cuando usted gane su confianza y actúe de forma honrada.
+Todo el mundo busca harmonía y todos estamos aquí, ante todo, porque queremos hablar de tecnologías que nos gustan. Por lo general, la gente está dispuesta a asumir buenas intenciones y perdonar, siempre y cuando usted gane su confianza y actúe de forma honrada.
 
 [Adaptado de la Política de Moderación de Rust](https://github.com/rust-lang/rust/wiki/Note-development-policy#moderation)
 
