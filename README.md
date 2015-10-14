@@ -78,7 +78,8 @@ evento de pago).
 
 Si eres víctima o testigo de una conducta inaceptable, o tienes cualquier 
 inquietud, por favor comunícate con un organizador del meetup lo antes posible. 
-[hola@colombia-dev.org]
+
+Email: hola@colombia-dev.org
 
 Adicionalmente, los organizadores comunitarios están disponibles para ayudar
 a miembros de la comunidad a contactar a la policía local o interceder para que
@@ -93,29 +94,29 @@ Estas son las políticas para mantener los estándares de conducta en nuestra
 comunidad en los canales de chat, meetups asociados, conferencias, 
 grupos de estudio, y eventos virtuales.
 
-- Palabras que violen las normas de Código de Conducta, incluyendo comentarios 
-odiosos, hirientes, opresivos, o excluyentes, no están permitidos. (Se permite 
-las "malas palabras", pero nunca enfocadas hacia otro usuario/asistente, y nunca 
-de una manera odiosa.)
-- Comentarios que los organizadores encuentran inapropiados tampoco están 
-permitidos, así aparezcan en el código de conducta o no.
-- Los organizadores primero deberán responder a dichos comentarios con una 
-advertencia.
-- Si la advertencia es ignorada, el usuario/asistente será expulsado del canal 
-para que evalúe su comportamiento, o deberá retirarse del lugar por 30 minutos 
-en caso de eventos presenciales.
-- Si el usuario/asistente regresa y continúa causando problemas, será expulsado
-del grupo/evento/lugar/Slack de forma indefinida.
-- Los organizadores pueden retractar la expulsión a su discreción si esta se 
-trata de una primera infracción y se ha ofrecido una disculpa sincera a quien 
-ofendieron.
-- Si un organizador expulsa a alguien y usted cree que fue una expulsión sin 
-causa, contacte a ese organizador, o a un organizador diferente **en privado**. 
-Quejas sobre expulsiones en medios abiertos, sociales, u otros canales no son 
-permitidas y conllevaran a más expulsiones.
-- Los organizadores se rigen por un nivel más alto que otros miembros de la 
-comunidad. Si un organizador crea una situación inadecuada, este será juzgado 
-con un estándar más alto.
+  * Palabras que violen las normas de Código de Conducta, incluyendo comentarios 
+    odiosos, hirientes, opresivos, o excluyentes, no están permitidos. (Se 
+    permite las "malas palabras", pero nunca enfocadas hacia otro 
+    usuario/asistente, y nunca de una manera odiosa.)
+  * Comentarios que los organizadores encuentran inapropiados tampoco están 
+    permitidos, así aparezcan en el código de conducta o no.
+  * Los organizadores primero deberán responder a dichos comentarios con una 
+    advertencia.
+  * Si la advertencia es ignorada, el usuario/asistente será expulsado del canal 
+    para que evalúe su comportamiento, o deberá retirarse del lugar por 30 
+    minutos en caso de eventos presenciales.
+  * Si el usuario/asistente regresa y continúa causando problemas, será 
+    expulsado del grupo/evento/lugar/Slack de forma indefinida.
+  * Los organizadores pueden retractar la expulsión a su discreción si esta se 
+    trata de una primera infracción y se ha ofrecido una disculpa sincera a 
+    quien ofendieron.
+  * Si un organizador expulsa a alguien y usted cree que fue una expulsión sin 
+    causa, contacte a ese organizador, o a un organizador diferente 
+    **en privado**. Quejas sobre expulsiones en medios abiertos, sociales, u 
+    otros canales no son permitidas y conllevaran a más expulsiones.
+  * Los organizadores se rigen por un nivel más alto que otros miembros de la 
+    comunidad. Si un organizador crea una situación inadecuada, este será 
+    juzgado con un estándar más alto.
 
 En la comunidad `colombia.dev` nos esforzamos por ir un paso más allá y cuidar 
 el uno del otro. No se limite a tratar de mostrar su excelencia técnica, trate 
