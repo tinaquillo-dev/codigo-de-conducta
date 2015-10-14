@@ -97,7 +97,7 @@ These are the policies for upholding our community's standards of conduct in our
 communication channels, associated meetups, conferences, study groups y virtual
 events.
 
-  * Remarks that violate the Rust standards of conduct, including hateful, 
+  * Remarks that violate the Code of Conduct, including hateful, 
     hurtful, oppressive, or exclusionary remarks, are not allowed. (Cursing is 
     allowed, but never targeting another user, and never in a hateful manner.)
   * Remarks that moderators find inappropriate, whether listed in the code of 
